@@ -25,9 +25,6 @@
 )
     
 
-- 발표자료
-    
-    [[머신러닝 팀프] 발표자료_4팀_ver.4 (2).pdf](%5B23%2006%5D%20%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%20Identifying%20Age-Related%20Conditions(%E1%84%8B%201eacf0ef282e4a629ae6e3a5c26e6594/%25E1%2584%2586%25E1%2585%25A5%25E1%2584%2589%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2585%25E1%2585%25A5%25E1%2584%2582%25E1%2585%25B5%25E1%2586%25BC_%25E1%2584%2590%25E1%2585%25B5%25E1%2586%25B7%25E1%2584%2591%25E1%2585%25B3_%25E1%2584%2587%25E1%2585%25A1%25E1%2586%25AF%25E1%2584%2591%25E1%2585%25AD%25E1%2584%258C%25E1%2585%25A1%25E1%2584%2585%25E1%2585%25AD_4%25E1%2584%2590%25E1%2585%25B5%25E1%2586%25B7_ver.4_(2).pdf)
     
 
 ## 1.  프로젝트 관리 세팅
@@ -144,11 +141,7 @@
             
             ![Untitled](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/ba8155cb-ff2a-4fe5-a78b-1f46173da64b![image](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/2843feac-d8df-4a87-a87b-7e06a1cf3264)
 )
-            
-            - Alpha 예측값을 prior로 두고, Class 예측값을 환산(Posterior)한 베이지안 통계 기법
-                
-                ![Untitled](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/9db9d2b6-6fab-4b4e-aa1b-9544ddc68b0d![image](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/7924208d-f766-4f6c-9762-d0a010cfa479)
-)
+      
                 
     - Epsilon 사용
         - Test 데이터의 수집 일자가 Train보다 늦다는 정보를 대회측에서 제공해 줬으므로, Test 데이터에 Train 데이터 중 가장 늦게 수집된 데이터 + 1의 날짜를 일괄적으로 기입해줌.
