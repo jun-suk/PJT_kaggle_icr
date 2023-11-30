@@ -1,8 +1,5 @@
 # [23.06] 캐글 Identifying Age-Related Conditions(의료)
 
-![Untitled](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/582184b7-33d7-4891-8bdb-67b5ffe13701 /assets/73885257/dc779507-5c9b-49da-a0b9-f8ee4b95eb6c![image](https://github.com/jun-suk/PJT_kaggle_icr/assets/73885257/023e5e96-b6f0-4274-a48c-c3a2a7c0fe01)
-)
-
 - 프로젝트 목표
     
     : 사람이 세 가지 의료 상태 중 하나 이상을 가지고 있는지 (Class 1) 또는 세 가지 의료 상태 중 아무것도 가지고 있지 않은지 (Class 0)를 예측하는 머신모델 개발
